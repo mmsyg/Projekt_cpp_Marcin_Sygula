@@ -116,7 +116,7 @@ Body okieno(x, z, choice, texture, r);
 		//okieno.~Body();
 		okno.close();
 		system("cls");
-	 std::cout << "Nacisnij [R], aby uruchomic program ponownie\n";
+	 std::cout << "Nacisnij [R], aby uruchomic program ponownie, albo dowolny klawisz, aby zakonczyc\n";
 	 std::cin >> ww;
 	} while (ww == 'r' || ww == 'R');
 		
